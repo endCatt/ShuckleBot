@@ -1,0 +1,11 @@
+{
+	"name": "ShuckleBot",
+	"version": "0.0.1",
+	"description": "First Bot for Pogo. To be used in Bot Playground, OCC Pogo, and down to clown.",
+	"main": "shuckle.js",
+	"author": "Nathaniel Sugatan",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.1.0"
+	}
+}
